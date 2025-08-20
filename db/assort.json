@@ -79,408 +79,302 @@
       }
     },
     {
+      "_name": "Pack of milk [Milk]",
       "_id": "675e800be9d52b306b23a0e7",
       "_tpl": "575146b724597720a27126d5",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Pack of apple juice [Apple]",
       "_id": "675e80627897a5cd0f827853",
       "_tpl": "57513f07245977207e26a311",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Can of TarCola soda [TarCola]",
       "_id": "675e80b03fcb5fd431622063",
       "_tpl": "57514643245977207f2c2d09",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Can of Ice Green tea [IceGreen]",
       "_id": "6760dd4a7176074674b58206",
       "_tpl": "575062b524597720a31c09a1",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
-      "_id": "6760dddc51cddc17b28dea70",
-      "_tpl": "5751496424597720a27126da",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": false,
-        "StackObjectsCount": 15,
-        "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
-      }
-    },
-    {
-      "_id": "6760de337ff981720e17bff2",
-      "_tpl": "5751435d24597720a27126d1",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": false,
-        "StackObjectsCount": 15,
-        "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
-      }
-    },
-    {
-      "_id": "6760de928454f4a833add829",
-      "_tpl": "62a09f32621468534a797acb",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": false,
-        "StackObjectsCount": 15,
-        "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
-      }
-    },
-    {
-      "_id": "6760dec97c2c4809643506cc",
-      "_tpl": "5d403f9186f7743cac3f229b",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": false,
-        "StackObjectsCount": 15,
-        "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
-      }
-    },
-    {
-      "_id": "6760df2858ead26a284aa599",
-      "_tpl": "5d40407c86f774318526545a",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": false,
-        "StackObjectsCount": 15,
-        "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
-      }
-    },
-    {
-      "_id": "6760df5b52f44d47aceec82d",
-      "_tpl": "5d1b376e86f774252519444e",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": false,
-        "StackObjectsCount": 4,
-        "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 1
-      }
-    },
-    {
+      "_name": "Emelya rye croutons [Emelya]",
       "_id": "6760e1909a2921e8f8933bbd",
       "_tpl": "5751487e245977207e26a315",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Army crackers [Crackers]",
       "_id": "6760e3135606df172050739b",
       "_tpl": "5448ff904bdc2d6f028b456e",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Rye croutons [Croutons]",
       "_id": "6760e3a23054018f36a4b101",
       "_tpl": "57347d3d245977448f7b7f61",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Slickers chocolate bar [Slickers]",
       "_id": "6760e3ec6d8c043d145fc5bd",
       "_tpl": "544fb6cc4bdc2d34748b456e",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Alyonka chocolate bar [Alyonka]",
       "_id": "6760e4500671bb086a3a37c1",
       "_tpl": "57505f6224597709a92585a9",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Pack of oat flakes [Oatflakes]",
       "_id": "6760e49a9c54757a8a7c8a5a",
       "_tpl": "57347d90245977448f7b7f65",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
-      "_id": "6760e4d2c142a6eaef009777",
-      "_tpl": "59e3577886f774176a362503",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": false,
-        "StackObjectsCount": 15,
-        "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
-      }
-    },
-    {
+      "_name": "Can of condensed milk [Cond. milk]",
       "_id": "6760e5051fcac5fce5426840",
       "_tpl": "5734773724597737fd047c14",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Can of beef stew (Small) [Tushonka]",
       "_id": "6760e560508dffeae04c1860",
       "_tpl": "57347d7224597744596b4e72",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Can of herring [Herring]",
       "_id": "6760e59b0189fc9e8f21eab2",
       "_tpl": "57347d9c245977448b40fa85",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Can of pacific saury [Saury]",
       "_id": "6760e5c5334815927370687e",
       "_tpl": "5673de654bdc2d180f8b456d",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Can of beef stew (Large) [Tushonka]",
       "_id": "6760e5f99e4b63f52df3e80c",
       "_tpl": "57347da92459774491567cf5",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Can of humpback salmon [Humpback]",  
       "_id": "6760e65134c5d281ab482c60",
       "_tpl": "57347d5f245977448b40fa81",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Salty Dog beef sausage [Sausage]",
       "_id": "6760e686208516cdf1e79e6b",
       "_tpl": "635a758bfefc88a93f021b8a",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Can of green peas [Peas]",
       "_id": "6760e6bb3e19235b399845bb",
       "_tpl": "57347d692459774491567cf1",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Pack of Tarker dried meat [Tarker]",
       "_id": "6760e6f7304a75d353b0a78a",
       "_tpl": "65815f0e647e3d7246384e14",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Pack of instant noodles [Noodles]",
       "_id": "6760e77783fb7e9c9a9403b3",
       "_tpl": "656df4fec921ad01000481a2",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Can of squash spread [Squash]",
       "_id": "6760e7a3049100ffbaf3dc5c",
       "_tpl": "57347d8724597744596b4e76",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "MRE ration pack [MRE]",
       "_id": "6760e7d40a078b4afab0f757",
       "_tpl": "590c5f0d86f77413997acfab",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
+        "BuyRestrictionMax": 15
       }
     },
     {
+      "_name": "Iskra ration pack [Iskra]",
       "_id": "6760e80b50690feb5f61802d",
       "_tpl": "590c5d4b86f774784e1b9c45",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
         "UnlimitedCount": false,
-        "StackObjectsCount": 15,
+        "StackObjectsCount": 100,
         "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
-      }
-    },
-    {
-      "_id": "6760e92d0bd8418af0553f53",
-      "_tpl": "5d1b33a686f7742523398398",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": false,
-        "StackObjectsCount": 1,
-        "BuyRestrictionCurrent": 0,
-        "BuyRestrictionMax": 10
-      }
-    },
-    {
-      "_id": "67eb03149c09920ff9fe52fd",
-      "_tpl": "57347c5b245977448d35f6e1",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": false,
-        "StackObjectsCount": 15,
-        "BuyRestrictionMax": 4
-      }
-    },
-    {
-      "_id": "67eb033a389324dfa0fe52fe",
-      "_tpl": "57347c77245977448d35f6e2",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": false,
-        "StackObjectsCount": 15,
-        "BuyRestrictionMax": 4
-      }
-    },
-    {
-      "_id": "67eb0377fa7e1ea95cfe52ff",
-      "_tpl": "59e35ef086f7741777737012",
-      "parentId": "hideout",
-      "slotId": "hideout",
-      "upd": {
-        "UnlimitedCount": false,
-        "StackObjectsCount": 15,
-        "BuyRestrictionMax": 4
+        "BuyRestrictionMax": 15
       }
     },
     {
@@ -1397,54 +1291,6 @@
         }
       ]
     ],
-    "6760dddc51cddc17b28dea70": [
-      [
-        {
-          "count": 12650,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "6760de337ff981720e17bff2": [
-      [
-        {
-          "count": 12200,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "6760de928454f4a833add829": [
-      [
-        {
-          "count": 19000,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "6760dec97c2c4809643506cc": [
-      [
-        {
-          "count": 28500,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "6760df2858ead26a284aa599": [
-      [
-        {
-          "count": 25000,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "6760df5b52f44d47aceec82d": [
-      [
-        {
-          "count": 192500,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
     "6760e1909a2921e8f8933bbd": [
       [
         {
@@ -1489,14 +1335,6 @@
       [
         {
           "count": 28235,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "6760e4d2c142a6eaef009777": [
-      [
-        {
-          "count": 30000,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -1601,38 +1439,6 @@
       [
         {
           "count": 20000,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "6760e92d0bd8418af0553f53": [
-      [
-        {
-          "count": 60000,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "67eb03149c09920ff9fe52fd": [
-      [
-        {
-          "count": 10000,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "67eb033a389324dfa0fe52fe": [
-      [
-        {
-          "count": 15000,
-          "_tpl": "5449016a4bdc2d6f028b456f"
-        }
-      ]
-    ],
-    "67eb0377fa7e1ea95cfe52ff": [
-      [
-        {
-          "count": 5800,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -2061,19 +1867,12 @@
     "675e80627897a5cd0f827853": 1,
     "675e80b03fcb5fd431622063": 1,
     "6760dd4a7176074674b58206": 1,
-    "6760dddc51cddc17b28dea70": 1,
-    "6760de337ff981720e17bff2": 1,
-    "6760de928454f4a833add829": 1,
-    "6760dec97c2c4809643506cc": 1,
-    "6760df2858ead26a284aa599": 1,
-    "6760df5b52f44d47aceec82d": 1,
     "6760e1909a2921e8f8933bbd": 1,
     "6760e3135606df172050739b": 1,
     "6760e3a23054018f36a4b101": 1,
     "6760e3ec6d8c043d145fc5bd": 1,
     "6760e4500671bb086a3a37c1": 1,
     "6760e49a9c54757a8a7c8a5a": 1,
-    "6760e4d2c142a6eaef009777": 1,
     "6760e5051fcac5fce5426840": 1,
     "6760e560508dffeae04c1860": 1,
     "6760e59b0189fc9e8f21eab2": 1,
@@ -2087,10 +1886,6 @@
     "6760e7a3049100ffbaf3dc5c": 1,
     "6760e7d40a078b4afab0f757": 1,
     "6760e80b50690feb5f61802d": 1,
-    "6760e92d0bd8418af0553f53": 1,
-    "67eb03149c09920ff9fe52fd": 1,
-    "67eb033a389324dfa0fe52fe": 1,
-    "67eb0377fa7e1ea95cfe52ff": 1,
     "6760ee2799edc4b7e1a067b6": 2,
     "6767bf4ff7cd7588145c68c8": 2,
     "676660a7d9635cc265bc37ba": 2,
