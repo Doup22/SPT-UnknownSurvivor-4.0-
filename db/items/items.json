@@ -1,0 +1,221 @@
+{
+  "682a2b9638afe9ae3cfdd943": {
+    "itemTplToClone": "5c093ca986f7740a1867ab12",
+    "parentId": "5448bf274bdc2dfc2f8b456a",
+    "handbookParentId": "5b5f6fd286f774093f2ecf0d",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "titancontainer.bundle",
+        "rcid": ""
+      },
+      "Height": 2,
+      "Width": 2,
+      "ItemSound": "container_plastic",
+      "Weight": 2,
+      "Grids": [
+        {
+          "_id": "682bf0d154701ce47df6c1a8",
+          "_name": "1",
+          "_parent": "682bf078537777d09b05573a",
+          "_props": {
+            "cellsH": 4,
+            "cellsV": 5,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029",
+                  "6761b213607f9a6f79017b24",
+                  "6761b213607f9a6f79017b23"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          }
+        },
+        {
+          "_id": "682bf13b20ddbed8ee9ebb32",
+          "_name": "2",
+          "_parent": "682bf078537777d09b05573a",
+          "_props": {
+            "cellsH": 1,
+            "cellsV": 5,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ],
+                "Filter": [
+                  "54009119af1c881c07000029"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          }
+        }
+      ],
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "DiscardingBlock": false,
+      "DiscardLimit": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Titan Container",
+        "shortName": "Titan",
+        "description": "Test"
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 18890,
+    "handbookPriceRoubles": 13440,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "Probability": 250,
+    "traders": {},
+    "StaticLootContainers": []
+  },
+  "688bbbc044d4d68f427c1342": {
+    "itemTplToClone": "5c0a840b86f7742ffa4f2482",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "gearbox.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Width": 4,
+      "Height": 3,
+      "Weight": 1.8,
+      "DiscardingBlock": false,
+      "ItemSound": "container_plastic",
+      "DiscardLimit": 0,
+      "Grids": [
+        {
+          "_name": "main",
+          "_id": "688bc098768b31618c13df7c",
+          "_parent": "688bc088cc1b8a4b8a1a61a3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5448eb774bdc2d0a728b4567",
+                  "5448ecbe4bdc2d60728b4568",
+                  "5447e0e74bdc2d3c308b4567"
+                ],
+                "ExcludedFilter": []
+              }
+            ],
+            "cellsH": 10,
+            "cellsV": 10,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Gear Box",
+        "shortName": "Gear Box",
+        "description": "A large container designed to store tactical gear."
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 648890,
+    "handbookPriceRoubles": 544098,
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+    ],
+    "Probability": 250
+    },
+  "68941a8dbcd80caaeb507b96": {
+    "itemTplToClone": "5449016a4bdc2d6f028b456f",
+    "parentId": "543be5dd4bdc2deb348b4569",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "t_koin_currency.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.05,
+      "DiscardingBlock": false,
+      "ItemSound": "jewlery",
+      "DiscardLimit": 0,
+      "Grids": [
+        {
+          "_name": "main",
+          "_id": "688bc098768b31618c13df7c",
+          "_parent": "688bc088cc1b8a4b8a1a61a3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                ],
+                "ExcludedFilter": []
+              }
+            ],
+            "cellsH": 0,
+            "cellsV": 0,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "T-Koin",
+        "shortName": "T-Koin",
+        "description": "A new Tarkov Crypto Currency"
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 648890,
+    "handbookPriceRoubles": 544098,
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+    ],
+    "Probability": 250
+  }
+}

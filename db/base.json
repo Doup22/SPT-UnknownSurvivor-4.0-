@@ -1,0 +1,94 @@
+{
+    "_id": "6758f03d55bf9943a7b14e47",
+    "working": true,
+    "availableInRaid": false,
+    "items_buy": {
+        "category": [
+            "5448e8d64bdc2dce718b4568",
+            "5448e8d04bdc2ddf718b4569",
+            "543be6674bdc2df1348b4569"
+        ],
+        "id_list": []
+    },
+    "items_buy_prohibited": {
+        "category": [],
+        "id_list": []
+    },
+    "customization_seller": false,
+    "name": "Unknown Survivor",
+    "surname": "",
+    "nickname": "Survivor",
+    "location": "Unknown",
+    "avatar": "/files/trader/avatar/unknownsurvivor.jpg",
+    "balance_rub": 5000000,
+    "balance_dol": 0,
+    "balance_eur": 0,
+    "unlockedByDefault": true,
+    "discount": 0,
+    "discount_end": 0,
+    "buyer_up": true,
+    "currency": "RUB",
+    "nextResupply": 1615141448,
+    "repair": {
+        "availability": false,
+        "quality": "2",
+        "excluded_id_list": [],
+        "excluded_category": [],
+        "currency": "5449016a4bdc2d6f028b456f",
+        "currency_coefficient": 1,
+        "price_rate": 10
+    },
+    "insurance": {
+        "availability": false,
+        "min_payment": 0,
+        "min_return_hour": 0,
+        "max_return_hour": 0,
+        "max_storage_time": 99,
+        "excluded_category": []
+    },
+    "gridHeight": 150,
+    "loyaltyLevels": [{
+            "minLevel": 5,
+            "minSalesSum": 0,
+            "minStanding": 0.00,
+            "buy_price_coef": 54,
+            "repair_price_coef": 500,
+            "insurance_price_coef": "1",
+            "exchange_price_coef": 0,
+            "heal_price_coef": 0
+        },
+        {
+            "minLevel": 10,
+            "minSalesSum": 750000,
+            "minStanding": 0.30,
+            "buy_price_coef": 50,
+            "repair_price_coef": 480,
+            "insurance_price_coef": "1",
+            "exchange_price_coef": 0,
+            "heal_price_coef": 0
+        },
+        {
+            "minLevel": 20,
+            "minSalesSum": 1000000,
+            "minStanding": 0.40,
+            "buy_price_coef": 45,
+            "repair_price_coef": 430,
+            "insurance_price_coef": "1",
+            "exchange_price_coef": 0,
+            "heal_price_coef": 0 
+        },
+        {
+            "minLevel": 30,
+            "minSalesSum": 2000000,
+            "minStanding": 0.50,
+            "buy_price_coef": 40,
+            "repair_price_coef": 400,
+            "insurance_price_coef": "1",
+            "exchange_price_coef": 0,
+            "heal_price_coef": 0             
+        }
+    ],
+    "sell_category": [
+        
+    ]
+}

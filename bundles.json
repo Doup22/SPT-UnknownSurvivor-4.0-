@@ -1,0 +1,22 @@
+{
+    "manifest": [
+        {
+            "key": "titancontainer.bundle",
+            "dependencyKeys": ["shaders","cubemaps","assets/commonassets/physics/physicsmaterials.bundle"]
+        },
+        {
+            "key": "gearbox.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"]
+         },
+        {
+            "key": "t_koin_currency.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"]            
+        }
+    ]
+}
