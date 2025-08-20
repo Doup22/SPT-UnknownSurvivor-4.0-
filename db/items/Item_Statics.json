@@ -1,0 +1,64 @@
+{
+  "68941a8dbcd80caaeb507b96": {
+    "itemTplToClone": "5449016a4bdc2d6f028b456f",
+    "parentId": "543be5dd4bdc2deb348b4569",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Item_Statics/t_koin_currency.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.05,
+      "DiscardingBlock": false,
+      "ItemSound": "jewlery",
+      "DiscardLimit": 0,
+      "Grids": [
+        {
+          "_name": "main",
+          "_id": "688bc098768b31618c13df7c",
+          "_parent": "688bc088cc1b8a4b8a1a61a3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                ],
+                "ExcludedFilter": []
+              }
+            ],
+            "cellsH": 0,
+            "cellsV": 0,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "T-Koin",
+        "shortName": "T-Koin",
+        "description": "A new Tarkov Crypto Currency"
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 648890,
+    "handbookPriceRoubles": 544098,
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "StaticLootContainers": [
+    ],
+    "Probability": 250
+  }
+}
