@@ -76,6 +76,54 @@
         "StackObjectsCount": 100,
         "BuyRestrictionMax": 15
       }
+    },
+    {
+      "_id": "68a621ffc9e9a88a4a4060a1",
+      "_tpl": "5e831507ea0a7c419c2f9bd9",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 100,
+        "BuyRestrictionMax": 15
+      }
+    },
+    {
+      "_id": "6854b60e20a3ca209cc3c404",
+      "_tpl": "669fca7f9ed4916116c76d5e",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 0,
+        "BuyRestrictionCurrent": 0,
+        "BuyRestrictionMax": 0,
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "semiauto"
+        }
+      }
+    },
+    {
+      "_id": "6854b65b44ed89a7a9c3c405",
+      "_tpl": "669fcadce0f0111308174c93",
+      "parentId": "6854b60e20a3ca209cc3c404",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "6854b6670cd6763b78c3c406",
+      "_tpl": "669fcb6ed34f850baaa66446",
+      "parentId": "6854b60e20a3ca209cc3c404",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6854b67a565fde8125c3c407",
+      "_tpl": "669fcbc7d1b799623b40679a",
+      "parentId": "6854b60e20a3ca209cc3c404",
+      "slotId": "mod_stock"
     }
   ],
   "barter_scheme": {
@@ -134,6 +182,22 @@
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
+    ],
+    "68a621ffc9e9a88a4a4060a1": [
+      [
+        {
+          "count": 3894,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "6854b60e20a3ca209cc3c404": [
+      [
+        {
+          "count": 26500,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
     ]
   },
   "loyal_level_items": {
@@ -143,6 +207,8 @@
     "68a602dc5ee91034c8e9d371": 1,
     "68a604deb2e23eb71de9d372": 1,
     "68a6053f63de183b05e9d373": 1,
-    "68a605aafc60f0baa0e9d374": 1
+    "68a605aafc60f0baa0e9d374": 1,
+    "68a621ffc9e9a88a4a4060a1": 1,
+    "6854b60e20a3ca209cc3c404": 2
   }
 }
