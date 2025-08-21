@@ -8,8 +8,8 @@ using SPTarkov.Server.Core.Routers;
 using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Utils;
 using System.Reflection;
-using WTTCommonLib;
 using Path = System.IO.Path;
+using WTTCommonLib;
 
 
 namespace UnknownSurvivor;
@@ -36,13 +36,14 @@ public record ModMetadata : AbstractModMetadata
 /// Feel free to use this as a base for your mod
 /// </summary>
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 1)]
-public class UnknownSurvivorClass(
+public class AddTraderWithAssortJson(
     ModHelper modHelper,
     ImageRouter imageRouter,
     ConfigServer configServer,
     TimeUtil timeUtil,
-    AddCustomTraderHelper addCustomTraderHelper, // This is a custom class we add for this mod, we made it injectable so it can be accessed like other classes here
-    WTTCommonLibPostDb  commonLib
+    UnknownSurvivorAssortJsonHelper.UnknownSurvivorAssortJsonHelper addCustomTraderHelper,
+    WTTCommonLibPostDb commonLib
+        
 )
     : IOnLoad
 {
@@ -54,7 +55,7 @@ public class UnknownSurvivorClass(
     {
         string configDirectory = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)!, "db", "items");
         commonLib.ItemService.CreateCustomItems(configDirectory);
-
+        
         // A path to the mods files we use below
         var pathToMod = modHelper.GetAbsolutePathToModFolder(Assembly.GetExecutingAssembly());
 
@@ -79,7 +80,7 @@ public class UnknownSurvivorClass(
         addCustomTraderHelper.AddTraderWithEmptyAssortToDb(traderBase);
 
         // Add localisation text for our trader to the database so it shows to people playing in different languages
-        addCustomTraderHelper.AddTraderToLocales(traderBase, "Survivor", "Not much is known about this trader.");
+        addCustomTraderHelper.AddTraderToLocales(traderBase, "Survivor", "Ex-Handler. Scav Recruiter. Shadow Broker.\n\nNo one knows his real name. Some say he was a foreign agent, others thought that he was a scav boss who disappeared when the city burned. What’s certain is that he survived — and now he trades in more than just food and medicine.\n\nThe Survivor has dossiers, maps, and secrets on everyone. He whispers promises to desperate Scavs, binding them to his cause with rations, stims, and bandages. Rivals call him a traitor, a liar, a ghost in the system. He calls himself a builder of something greater.\n\nWork with him, and he’ll feed you, heal you, and maybe even protect you. Cross him, and you’ll discover he’s not just another trader — he’s a man with a plan, and you might just be in it.");
 
         // Get the assort data from JSON
         var assort = modHelper.GetJsonDataFromFile<TraderAssort>(pathToMod, "db/assort.json");
